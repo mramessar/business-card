@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #B7C4CF;
+    color: #967E76;
+    border: 6px solid #EEE3CB;
+    border-radius: 5px;
+    box-shadow: 5px 10px #D7C0AE;
+    
+    
+}
+
+.card-img {
+    height: 150px;
+    width: 100px;
+}
+
+.bolded {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.lora {
+    font-family: 'Lora', serif;
+    font-style: italic;
+}
